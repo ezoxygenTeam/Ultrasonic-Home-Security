@@ -31,6 +31,12 @@ By integrating with your home's smart speaker or utilizing the microphone on you
 
 ---
 
+# The Introduction PDF
+
+[PDF](https://github.com/ezoxygenTeam/Ultrasonic-Home-Security/blob/main/ezSafe%20Home%20Security.pdf)
+
+---
+
 # Mobile Application Information
 
 Now, our Android APK is compatible with both Android smartphones and Android TV.
