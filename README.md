@@ -1,12 +1,13 @@
 ![picture](https://github.com/ezoxygenTeam/Try-Breath/blob/main/demo%20photo/GH_LOGO(E).png)
 
-<br>
-<br>
+---
 
 # ez-Safe
 
 **ez-Safe** is an ultrasonic emitter module, you can revolutionize home security and monitoring. This versatile module can be installed on doors, windows, or any critical area in your home for open/close surveillance. It's also adept for kitchen scenarios, acting as a temperature alert monitor.  
 By integrating with your home's smart speaker or utilizing the microphone on your smartphone, the module decodes ultrasonic signals, transforming your space into an ultrasonic home security and control system. 
+
+---
 
 # What is the ez-Safe feature?
 
@@ -28,6 +29,7 @@ By integrating with your home's smart speaker or utilizing the microphone on you
 - **Travel-friendly Security Device**: 
    - A portable security device perfect for travel, offering peace of mind with its compact size and powerful monitoring capabilities.
 
+---
 
 # Mobile Application Information
 
@@ -67,6 +69,8 @@ Follow these steps for effective use:
    - **Note**: When a specific frequency exceeds the threshold, the green square on the screen will turn red.
    - **Note**: The `History Page` allows you to check the time, location, and name of the device for previous alerts.
 
+---
+
 # Website Application Information
 
 ### Website: [Ultrasonic Home Security](https://websafe-2f64d.web.app/)
@@ -95,6 +99,8 @@ Follow these steps for an optimal experience with our system:
 5. **Move the Transmitter to Detect Changes**
    - You can move the transmitter closer or further from the receiver to detect changes on the screen.
    - **Note**: When a specific frequency exceeds the threshold, the grey square on the screen will turn green.
+
+---
 
 # Contact us
 
