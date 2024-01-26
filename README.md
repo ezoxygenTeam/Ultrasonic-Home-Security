@@ -1,19 +1,42 @@
-# Ultrasonic Home Security
+![picture](https://github.com/ezoxygenTeam/Try-Breath/blob/main/demo%20photo/GH_LOGO(E).png)
 
-Ultrasonic Home Security is designed to enhance home safety by detecting specific frequency signal strengths using ultrasonic frequency domain analysis. When the signal strength exceeds a predetermined threshold, it is interpreted as an 'on' or 'off' signal, essentially a Boolean true or false concept. For instance, when a frequency is activated and surpasses the set threshold, the system defines this state as 'activated'. This algorithm can be applied to home security control. For example, when a door or window opens, our device emits a specific frequency signal to our receiver. Upon decoding this signal, the receiver sends out an email alert to the user, warning of a potential security breach in their home.
+<br>
+<br>
 
-# What is the Ultrasonic Home Security feature?
+# ez-Safe
 
-### **Ultrasonic Frequency Detection**:  
-- Monitors safety by detecting signal strengths at specific frequencies.
-### **Boolean Signal Processing**:  
-- Treats signals exceeding the set threshold as an on/off switch.
-### **Home Security Application**:  
-- Controls security through signal detection, such as sending alerts when doors or windows open.
-### **Instant Alert Notifications**:  
-- Automatically sends email alerts to users when anomalies are detected.
+**ez-Safe** is an ultrasonic emitter module, you can revolutionize home security and monitoring. This versatile module can be installed on doors, windows, or any critical area in your home for open/close surveillance. It's also adept for kitchen scenarios, acting as a temperature alert monitor.  
+By integrating with your home's smart speaker or utilizing the microphone on your smartphone, the module decodes ultrasonic signals, transforming your space into an ultrasonic home security and control system. 
+
+# What is the ez-Safe feature?
+
+- **Exclusive Ultrasonic Patent Technology**: 
+   - Utilizes our unique ultrasonic patent technology, requiring only a smart device's microphone to achieve home security and surveillance.
+
+- **Simple Calibration Process**: 
+   - Easy calibration allows smartphones and smart speakers to act as receivers, simplifying the setup process.
+
+- **Portable and Long-lasting Ultrasonic Emitter**: 
+   - The ultrasonic emitter is lightweight, easy to carry, and designed for extended use, making it ideal for continuous monitoring.
+
+- **Versatile Frequency Range for Diverse Monitoring**: 
+   - Capable of emitting various frequencies to cater to different monitoring needs and locations.
+
+- **Multiple Detection Modes**: 
+   - Supports a variety of detection methods, including door/window opening, temperature sensing, and more, ensuring comprehensive coverage.
+
+- **Travel-friendly Security Device**: 
+   - A portable security device perfect for travel, offering peace of mind with its compact size and powerful monitoring capabilities.
+
 
 # Mobile Application Information
+
+Now, our Android APK is compatible with both Android smartphones and Android TV.
+
+**Note**:  
+Android TV compatibility has been tested and confirmed on [Nvidia Shield TV](https://www.nvidia.com/zh-tw/shield/shield-tv-pro/). It can be used simply by connecting an external microphone.  
+
+For the microphone part, our company offers high-specification USB microphones. If needed, please contact us for more details.
 
 ### Download link : [Download Mobile Application](https://github.com/ezoxygenTeam/Ultrasonic-Home-Security/raw/master/HomeSercurity.apk)
 
@@ -22,10 +45,12 @@ Ultrasonic Home Security is designed to enhance home safety by detecting specifi
 Follow these steps for effective use:
 
 1. **Download and Open the App**
-   - Download the apk, complete the installation, and open the App.
+   - Download the Android apk, complete the installation, and open the App.
 
-2. **Prepare Your Phone or Ultrasonic Transmitter**
-   - Ensure your smartphone or ultrasonic transmitter is ready.
+2. **Prepare Your ez-Safe Ultrasonic Transmitter**
+   - Ensure your ultrasonic transmitter is ready.
+   - If you currently don't have an ultrasonic sensor but are eager to test the system, you can temporarily use your smartphone as an emitter for preliminary usage. This makeshift solution allows you to explore the functionalities of the system before committing to a dedicated ultrasonic sensor.
+
    - **Recommended frequency generator app:**
         - [Recommended Android App](https://play.google.com/store/apps/details?id=com.boedec.hoel.frequencygenerator&hl=zh_TW&gl=US)
         - [Recommended iOS App](https://apps.apple.com/app/id1487749953)
@@ -53,8 +78,9 @@ Follow these steps for an optimal experience with our system:
 1. **Open Website and Authorize Microphone**
    - Visit the website and agree to microphone permissions.
 
-2. **Prepare Your Phone or Ultrasonic Transmitter**
+2. **Prepare Your Ultrasonic Transmitter**
    - Ensure your smartphone or ultrasonic transmitter is ready.
+   - If you currently don't have an ultrasonic sensor but are eager to test the system, you can temporarily use your smartphone as an emitter for preliminary usage. This makeshift solution allows you to explore the functionalities of the system before committing to a dedicated ultrasonic sensor.
    - **Recommended frequency generator app:**
         - [Recommended Android App](https://play.google.com/store/apps/details?id=com.boedec.hoel.frequencygenerator&hl=zh_TW&gl=US)
         - [Recommended iOS App](https://apps.apple.com/app/id1487749953)
