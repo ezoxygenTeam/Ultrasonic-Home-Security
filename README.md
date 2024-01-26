@@ -70,16 +70,6 @@ Follow these steps for an optimal experience with our system:
    - You can move the transmitter closer or further from the receiver to detect changes on the screen.
    - **Note**: When a specific frequency exceeds the threshold, the grey square on the screen will turn green.
 
-# The Usage Information
-
-### The Office-related links:
-
-test
-
-### Other related links:
-
-test
-
-### Contact us
+# Contact us
 
 Email: [service@genius-gh.com](mailto:service@genius-gh.com)
